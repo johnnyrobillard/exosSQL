@@ -1,5 +1,5 @@
-Quels sont les fournisseurs situés dans les départements 75, 78, 92, 77 ?
-L’affichage (département, nom fournisseur) sera effectué par département décroissant, puis par ordre alphabétique.
+--Quels sont les fournisseurs situés dans les départements 75, 78, 92, 77 ?
+--L’affichage (département, nom fournisseur) sera effectué par département décroissant, puis par ordre alphabétique.
 SELECT nomfou, substring(posfou,1,2) 
 as 'Départements' 
 from fournis 
