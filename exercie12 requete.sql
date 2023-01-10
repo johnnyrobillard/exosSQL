@@ -1,3 +1,4 @@
+--Coder de 2 manières différentes la requête suivante : Lister le nom des fournisseurs susceptibles de livrer au moins un article.
 SELECT nomfou
 FROM entcom,fournis,ligcom
 WHERE entcom.numfou = fournis.numfou
