@@ -1,0 +1,2 @@
+--Calculer le chiffre d'affaire par fournisseur pour l'année 2018,
+--sachant que les prix indiqués sont hors taxes et que le taux de TVA est 20%.
