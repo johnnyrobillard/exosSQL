@@ -2,6 +2,6 @@
 --Afficher nom du fournisseur, numéro de commande et date.
 
 SELECT numcom,datcom,nomfou
-FROM `entcom`
+FROM entcom
 INNER JOIN fournis ON entcom.numfou=fournis.numfou;
 
