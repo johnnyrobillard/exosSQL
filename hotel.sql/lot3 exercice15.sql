@@ -3,4 +3,5 @@
 SELECT COUNT(cha_capacite) 
 FROM chambre 
 JOIN hotel ON hot_id=cha_hot_id 
-GROUP BY hot_sta_id >1; 
+WHERE cha_capacite >1
+GROUP BY hot_sta_id; 
