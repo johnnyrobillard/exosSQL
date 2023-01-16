@@ -1,0 +1,2 @@
+--Afficher les réservations avec le nom du client et le nom de l’hôtel avec datediff
+--Le résultat doit faire apparaître le nom du client, le nom de l’hôtel, la date de début du séjour et la durée du séjour

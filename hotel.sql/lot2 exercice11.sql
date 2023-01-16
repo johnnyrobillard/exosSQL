@@ -1,0 +1,2 @@
+--Afficher la liste des chambres avec le nom de l’hôtel et le nom de la station
+--Le résultat doit faire apparaître le nom de la station, le nom de l’hôtel, le numéro de la chambre et sa capacité
