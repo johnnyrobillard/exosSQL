@@ -1,0 +1,1 @@
+--Compter le nombre de chambres par station ayant une capacité > 1

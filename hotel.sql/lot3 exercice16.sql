@@ -1,0 +1,1 @@
+--Afficher la liste des hôtels pour lesquels Mr Squire a effectué une réservation

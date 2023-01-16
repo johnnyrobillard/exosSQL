@@ -1,0 +1,1 @@
+--Afficher la durée moyenne des réservations par station
