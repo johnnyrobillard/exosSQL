@@ -1,0 +1,1 @@
+--Chiffre d'affaires détaillé par mois, sur les ventes de 1997 :

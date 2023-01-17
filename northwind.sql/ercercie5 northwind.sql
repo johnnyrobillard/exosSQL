@@ -1,0 +1,1 @@
+--Liste des clients dont le montant cumulé de toutes les commandes passées est supérieur à 30000 € :

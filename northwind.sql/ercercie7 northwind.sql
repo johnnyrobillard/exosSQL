@@ -1,0 +1,1 @@
+--Chiffre d'affaires global sur les ventes de 1997 :
